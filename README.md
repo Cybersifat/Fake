@@ -4,7 +4,7 @@
 [>] pkg update -y && pkg upgrade -y
 [>] pkg install python -y
 [>] pkg install git -y
-[>] git clone https://github.com/Cybersifat/Fake
+[>] git clone https://github.com/SIFAT-007/Fake
 [>] cd Fake
 [>] python Fake-mail.py
 ```
